@@ -1,0 +1,19 @@
+section {
+    width: 600px;
+    margin-bottom: 50px;
+}
+
+a {
+  font-weight: bold;  
+  font-size: ;
+}
+
+
+a:visited {
+    color:rgb(226, 43, 43);
+}
+
+a:hover {
+    color: #008000;
+}
+
